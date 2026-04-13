@@ -1,0 +1,470 @@
+[
+  {
+    "model": "103021100005374",
+    "name": "Fire Alarm System: Dahua DHI-HY-1330",
+    "priceMNT": 62180,
+    "stock": 43
+  },
+  {
+    "model": "103021100005474",
+    "name": "Fire Alarm: Dahua DHI-HY-BM-1712",
+    "priceMNT": 95180,
+    "stock": 27
+  },
+  {
+    "model": "103021100005674",
+    "name": "Fire alarm system: Dahua DHI-HY-1431R",
+    "priceMNT": 45000,
+    "stock": 10
+  },
+  {
+    "model": "103021430002474",
+    "name": "Display: Dahua Monitor DHI-LM32-F200 (32 inch FHD)",
+    "priceMNT": 546400,
+    "stock": 1
+  },
+  {
+    "model": "103021430002574",
+    "name": "Display: Dahua Monitor DHI-LM43-F200 (43 inch FHD)",
+    "priceMNT": 814300,
+    "stock": 6
+  },
+  {
+    "model": "103021530005874",
+    "name": "CCTV Camera: Dahua DH-C4K-P",
+    "priceMNT": 158200,
+    "stock": 20
+  },
+  {
+    "model": "103019130000674",
+    "name": "Switch: Dahua DH-S3016-16GT, 16-Port Gigabit Unmanaged Desktop Switch (non-PoE)",
+    "priceMNT": 135300,
+    "stock": 29
+  },
+  {
+    "model": "103019130003274",
+    "name": "Switch: Dahua DH-PFS3106-4ET-60 4 port PoE Switch",
+    "priceMNT": 189000,
+    "stock": 32
+  },
+  {
+    "model": "103019130005674",
+    "name": "Switch: Dahua DH-PFS3110-8ET-96",
+    "priceMNT": 282800,
+    "stock": 60
+  },
+  {
+    "model": "103019130005974",
+    "name": "Switch: Dahua DH-PFS3005-4ET-60-V2 (DH-PFS3005-4ET-60) 4-port Fast Ethernet PoE + 1-port RJ45 Fast Ethernet commercial unmanageable switch , PN: 1.0.01.20.10645",
+    "priceMNT": 60200,
+    "stock": 100
+  },
+  {
+    "model": "103021300005474",
+    "name": "Panel: Dahua Control Panel DHI-HY-1022R (Addressable fire alarm control panel with optional printer)",
+    "priceMNT": 1379930,
+    "stock": 5
+  },
+  {
+    "model": "103021300005574",
+    "name": "Detector: Dahua Smoke Detector DHI-HY-1301",
+    "priceMNT": 21300,
+    "stock": 485
+  },
+  {
+    "model": "103021300005674",
+    "name": "Fire Alarm: Dahua DHI-HY-TCDZ",
+    "priceMNT": 4300,
+    "stock": 1
+  },
+  {
+    "model": "103021300005874",
+    "name": "Module Base: Dahua DHI-HY-MKDZ2",
+    "priceMNT": 8180,
+    "stock": 25
+  },
+  {
+    "model": "103021300005974",
+    "name": "Call Point: Dahua Addressable Manual Call Point DHI-HY-1200",
+    "priceMNT": 24680,
+    "stock": 70
+  },
+  {
+    "model": "103021300006074",
+    "name": "Fire Alarm: Dahua DHI-HY-ANDZ",
+    "priceMNT": 4430,
+    "stock": 114
+  },
+  {
+    "model": "103021300006174",
+    "name": "Fire Alarm: Dahua DHI-HY-1500",
+    "priceMNT": 23180,
+    "stock": 74
+  },
+  {
+    "model": "103021300006274",
+    "name": "Fire Alarm: Dahua DHI-HY-SGDZ",
+    "priceMNT": 4430,
+    "stock": 118
+  },
+  {
+    "model": "103010400004374",
+    "name": "Dahua-ITSZJ-1101-12 (PN- 1.0.01.09.13263)",
+    "priceMNT": 168600,
+    "stock": 2
+  },
+  {
+    "model": "103021500006774",
+    "name": "CCTV Camera: Dahua DH-C5A (5MP Indoor Fixed-focal Wi-Fi Cube Network Camera)",
+    "priceMNT": 91800,
+    "stock": 2
+  },
+  {
+    "model": "103021500006874",
+    "name": "CCTV Camera: Dahua DH-H5B (5MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera)",
+    "priceMNT": 130600,
+    "stock": 47
+  },
+  {
+    "model": "103021500007174",
+    "name": "CCTV Camera: Dahua DH-IPC-HDW1839T-A-IL",
+    "priceMNT": 149430,
+    "stock": 85
+  },
+  {
+    "model": "103021500007274",
+    "name": "CCTV Camera: Dahua DH-IPC-HDBW2441R-ZS",
+    "priceMNT": 432500,
+    "stock": 5
+  },
+  {
+    "model": "103021420001274",
+    "name": "CCTV Camera Dahua IPC-HDW8341XP-3D-0280B - 30000103474",
+    "priceMNT": 1028300,
+    "stock": 1
+  },
+  {
+    "model": "103021550010274",
+    "name": "CCTV Camera: Dahua DH-IPC-HDBW1230E-S5 (2MP IR Mini-Dome Network Camera)",
+    "priceMNT": 59600,
+    "stock": 150
+  },
+  {
+    "model": "103021550012674",
+    "name": "CCTV Camera: Dahua DH-IPC-HDW3449H-AS-PV-S3 (DH-IPC-HDW3449HP-AS-PV-0280B-S3) 4 MP Smart Dual Illumination Active Deterrence Fixed-focal Eyeball WizSense Network Camera , PN: 1.0.01.04.36389",
+    "priceMNT": 218000,
+    "stock": 7
+  },
+  {
+    "model": "103021550014174",
+    "name": "Dahua: DHI-ITC214-PH5B-F3-POE (Parking Space Detection Camera) PN: 1.0.01.09.13982",
+    "priceMNT": 361900,
+    "stock": 50
+  },
+  {
+    "model": "103021550016074",
+    "name": "Dome Camera: Dahua DH-IPC-HDBW3441F-AS-S2",
+    "priceMNT": 297800,
+    "stock": 24
+  },
+  {
+    "model": "103021550017074",
+    "name": "CCTV Camera: Dahua DH-IPC-HFW2849T-AS-IL",
+    "priceMNT": 309400,
+    "stock": 2
+  },
+  {
+    "model": "103021100004974",
+    "name": "Fire Alarm: Dahua DHI-HY-1025",
+    "priceMNT": 2180100,
+    "stock": 8
+  },
+  {
+    "model": "103021100005174",
+    "name": "Fire Alarm: Dahua DHI-HY-1500",
+    "priceMNT": 24500,
+    "stock": 70
+  },
+  {
+    "model": "103021100005274",
+    "name": "Fire Alarm System: Dahua DHI-HY-1431",
+    "priceMNT": 14180,
+    "stock": 21
+  },
+  {
+    "model": "103020120007474",
+    "name": "UTP Cable: Dahua UTP Cable DH-PFM922I-5EUN-C (305m UTP CAT5e Cable (CCA)",
+    "priceMNT": 155000,
+    "stock": 200
+  },
+  {
+    "model": "103022150012874",
+    "name": "Video Recorder: Dahua DHI-NVR4432-EI, 32CH 1.5U 4HDDs WizSense Network Video Recorder",
+    "priceMNT": 1010500,
+    "stock": 1
+  },
+  {
+    "model": "103019130009174",
+    "name": "Switch: Dahua DH-PFS3009-8ET-96",
+    "priceMNT": 177500,
+    "stock": 41
+  },
+  {
+    "model": "103019130011074",
+    "name": "Switch: Dahua Poe Switch DH-S3226-24ET-375",
+    "priceMNT": 695800,
+    "stock": 20
+  },
+  {
+    "model": "103019130011174",
+    "name": "Switch: Dahua Desktop Poe Switch DH-PFS3010-8ET-96 (10-Port Unmanaged Desktop Switch with 8 Port PoE)",
+    "priceMNT": 230800,
+    "stock": 35
+  },
+  {
+    "model": "103019130011274",
+    "name": "Switch: Dahua Poe Switch DH-CS4218-16ET-190 (18-Port Cloud Managed Desktop Switch with 16-Port PoE)",
+    "priceMNT": 547400,
+    "stock": 30
+  },
+  {
+    "model": "103019130011374",
+    "name": "Switch: Dahua Poe Switch DH-CS4226-24ET-240 (26-Port Cloud Managed Desktop Switch with 24-Port PoE)",
+    "priceMNT": 579200,
+    "stock": 32
+  },
+  {
+    "model": "103019120018574",
+    "name": "Switch: Dahua Unmanaged Switch DH-PFS3008-8GT-L (8-Port Unmanaged Gigabit Switch)",
+    "priceMNT": 44200,
+    "stock": 16
+  },
+  {
+    "model": "103019120018674",
+    "name": "Switch: Dahua Unmanaged Gigabit Switch DH-PFS3008-8GT (8-Port Unmanaged Gigabit Switch)",
+    "priceMNT": 57800,
+    "stock": 7
+  },
+  {
+    "model": "103014320003774",
+    "name": "NVR: DHI-NVR1104HS-S3H (V2.0) 1.0.01.23.14354",
+    "priceMNT": 156400,
+    "stock": 10
+  },
+  {
+    "model": "103014320014574",
+    "name": "NVR: Dahua DHI-NVR1108HS-8P-S3H (8 Channel Compact 1U 8PoE Lite H.265 Network Video Recorder)",
+    "priceMNT": 316900,
+    "stock": 29
+  },
+  {
+    "model": "103014320016274",
+    "name": "NVR: DHI-NVR4204-P-4KS3",
+    "priceMNT": 627800,
+    "stock": 1
+  },
+  {
+    "model": "103014320016374",
+    "name": "NVR: Dahua DHI-NVR4108HS-P-4KS3",
+    "priceMNT": 169400,
+    "stock": 3
+  },
+  {
+    "model": "103014320016874",
+    "name": "NVR: Dahua DHI-NVR1104HS-P-S3H (V2.0)",
+    "priceMNT": 252900,
+    "stock": 13
+  },
+  {
+    "model": "103014320017074",
+    "name": "NVR: Dahua DHI-NVR5416-16P-EI, 16CH 4HDD 1.5U NETWORK VIDEO RECORDER",
+    "priceMNT": 1867900,
+    "stock": 1
+  },
+  {
+    "model": "103014320018074",
+    "name": "NVR: Dahua Network Video Recorder DHI-NVR4232-4KS3 (32CH 1U 2HDDs Lite Network Video Recorder)",
+    "priceMNT": 463200,
+    "stock": 9
+  },
+  {
+    "model": "103014320018174",
+    "name": "NVR: Dahua Network Video Recorder DHI-NVR616H-128-XI (128CH 3U 16HDDs WizMind Network Video Recorder)",
+    "priceMNT": 6426000,
+    "stock": 3
+  },
+  {
+    "model": "103014320018274",
+    "name": "NVR: Dahua Network Video Recorder DHI-NVR5864-EI2 (64CH 2U 8HDDs WizSense Network Video Recorder)",
+    "priceMNT": 2040900,
+    "stock": 3
+  },
+  {
+    "model": "103014320018374",
+    "name": "NVR: Dahua Network Video Recorder DHI-NVR4432-EI (32CH 1.5U 4HDDs WizSense Network Video Recorder)",
+    "priceMNT": 995400,
+    "stock": 15
+  },
+  {
+    "model": "103014320018474",
+    "name": "NVR: Dahua Network Video Recorder DHI-NVR1108HS-S3H (8-channel NVR Video Recorder)",
+    "priceMNT": 178200,
+    "stock": 44
+  },
+  {
+    "model": "103014320018574",
+    "name": "NVR: Dahua Network Video Recorder DHI-NVR2216-4KS3",
+    "priceMNT": 311400,
+    "stock": 13
+  },
+  {
+    "model": "103014320019074",
+    "name": "NVR: Dahua DHI-NVR5216-EI2 (16CH 2HDD 1U NETWORK VIDEO RECORDER)",
+    "priceMNT": 908600,
+    "stock": 10
+  },
+  {
+    "model": "103015000245374",
+    "name": "Other Goods: Dahua Junction Box DH-PFA136",
+    "priceMNT": 26800,
+    "stock": 6
+  },
+  {
+    "model": "103021520019574",
+    "name": "CCTV Camera: Dahua DH-IPC-HFW2841T-ZS",
+    "priceMNT": 535100,
+    "stock": 10
+  },
+  {
+    "model": "103021520020274",
+    "name": "CCTV Camera: Dahua DH-IPC-HFW2449M-AS-LED-B, 4MP Full-color Fixed-focal Bullet Wizsense Network Camera",
+    "priceMNT": 229800,
+    "stock": 12
+  },
+  {
+    "model": "103021520021074",
+    "name": "Camera: Dahua DH-IPC-HFW2441T-ZS",
+    "priceMNT": 428400,
+    "stock": 15
+  },
+  {
+    "model": "103021520021774",
+    "name": "Camera: Dahua DH-IPC-PFW3849S-A180-AS-PV, 2x4MP TiOC Duo Splicing Fixed-focal Bullet WizSense Network Camera",
+    "priceMNT": 580700,
+    "stock": 25
+  },
+  {
+    "model": "103021520021974",
+    "name": "Bullet Camera: Dahua DH-IPC-HDW1639T-A-IL",
+    "priceMNT": 195800,
+    "stock": 14
+  },
+  {
+    "model": "103021520023874",
+    "name": "Network Camera: Dahua DH-P5B-PV, 5MP Outdoor Fixed-focal Wi-Fi Pan & Tilt Network Camera",
+    "priceMNT": 78900,
+    "stock": 5
+  },
+  {
+    "model": "103021520024174",
+    "name": "Network Camera: Dahua DH-IPC-HDBW1639E1-A-IL",
+    "priceMNT": 150300,
+    "stock": 153
+  },
+  {
+    "model": "103021520024274",
+    "name": "Network Camera: Dahua DH-IPC-HDBW1839E1-A-IL",
+    "priceMNT": 238000,
+    "stock": 184
+  },
+  {
+    "model": "103021520024574",
+    "name": "CCTV Camera: Dahua Network Bullet Camera DH-IPC-HFW2449TL-S-PRO (4MP WizColor Fixed-focal Bullet WizSense Network Camera)",
+    "priceMNT": 211700,
+    "stock": 195
+  },
+  {
+    "model": "103021520024674",
+    "name": "CCTV Camera: Dahua Bullet Camera DH-IPC-HFW2849TL-S-PRO (8MP WizColor Fixed-focal Bullet WizSense Network Camera)",
+    "priceMNT": 349300,
+    "stock": 108
+  },
+  {
+    "model": "103021520024774",
+    "name": "CCTV Camera: Dahua Network Camera DH-IPC-HDBW1439E1-A-IL",
+    "priceMNT": 149300,
+    "stock": 300
+  },
+  {
+    "model": "103021520024874",
+    "name": "CCTV Camera: Dahua Bullet Camera DH-IPC-HFW1639TC-A-IL",
+    "priceMNT": 207400,
+    "stock": 150
+  },
+  {
+    "model": "103021520024974",
+    "name": "CCTV Camera: Dahua Bullet Camera DH-IPC-HFW1439TL1-A-IL",
+    "priceMNT": 162400,
+    "stock": 50
+  },
+  {
+    "model": "103021590017774",
+    "name": "CCTV Camera Acc Dahua PFA134 Water-proof Junction Box - 30000085000",
+    "priceMNT": 16300,
+    "stock": 27
+  },
+  {
+    "model": "103021590022774",
+    "name": "CCTV Camera Acc Dahua PFA162, Other Mount Bracket - 30000104274",
+    "priceMNT": 21900,
+    "stock": 7
+  },
+  {
+    "model": "103021590023274",
+    "name": "CCTV Camera Acc: Dahua DH-PFA121 Water-proof Junction Box - 30100000174",
+    "priceMNT": 36000,
+    "stock": 13
+  },
+  {
+    "model": "103021590037274",
+    "name": "CCTV Acc: Dahua DH-PFA150 Pole Mount",
+    "priceMNT": 54400,
+    "stock": 57
+  },
+  {
+    "model": "103021590051074",
+    "name": "PTZ camera acc: Dahua DH-PFB303W (Water-proof Wall Mount Bracket)",
+    "priceMNT": 52400,
+    "stock": 1
+  },
+  {
+    "model": "103021540000474",
+    "name": "CCTV Camera: Dahua DH-IPC-EW5541P-AS (5MP WizMind IR Fisheye Network CAMERA)",
+    "priceMNT": 481400,
+    "stock": 20
+  },
+  {
+    "model": "103021560010574",
+    "name": "PTZ Camera: Dahua Camera DH-SD49425GB-HNR (4MP 25x Starlight IR Network PTZ Camera)",
+    "priceMNT": 1097600,
+    "stock": 17
+  },
+  {
+    "model": "103020370002874",
+    "name": "RJ connector: Dahua DH-PFM976-531 (CAT5E RJ45 CONNECTOR)",
+    "priceMNT": 15000,
+    "stock": 50
+  },
+  {
+    "model": "103015140003774",
+    "name": "HDD: Dahua HDD ST6000VX008",
+    "priceMNT": 610000,
+    "stock": 200
+  },
+  {
+    "model": "103020120006674",
+    "name": "UTP Cable: Dahua DH-PFM922I-6UN-C, CAT6 Cable",
+    "priceMNT": 181300,
+    "stock": 200
+  }
+]
